@@ -1,0 +1,10 @@
+C:\Users\rug11\OneDrive - Staffordshire University\2nd year\CNA\Networking Tut\Server\Server\bin\Debug\Server.exe.config
+C:\Users\rug11\OneDrive - Staffordshire University\2nd year\CNA\Networking Tut\Server\Server\bin\Debug\Server.exe
+C:\Users\rug11\OneDrive - Staffordshire University\2nd year\CNA\Networking Tut\Server\Server\bin\Debug\Server.pdb
+C:\Users\rug11\OneDrive - Staffordshire University\2nd year\CNA\Networking Tut\Server\Server\obj\Debug\Server.csprojAssemblyReference.cache
+C:\Users\rug11\OneDrive - Staffordshire University\2nd year\CNA\Networking Tut\Server\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\rug11\OneDrive - Staffordshire University\2nd year\CNA\Networking Tut\Server\Server\obj\Debug\Server.exe
+C:\Users\rug11\OneDrive - Staffordshire University\2nd year\CNA\Networking Tut\Server\Server\obj\Debug\Server.pdb
+C:\Users\rug11\OneDrive - Staffordshire University\2nd year\CNA\Networking Tut\Server\Server\bin\Debug\Packets.dll
+C:\Users\rug11\OneDrive - Staffordshire University\2nd year\CNA\Networking Tut\Server\Server\bin\Debug\Packets.pdb
+C:\Users\rug11\OneDrive - Staffordshire University\2nd year\CNA\Networking Tut\Server\Server\obj\Debug\Server.csproj.CopyComplete

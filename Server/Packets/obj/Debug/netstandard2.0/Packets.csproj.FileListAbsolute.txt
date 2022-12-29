@@ -1,0 +1,9 @@
+C:\Users\rug11\OneDrive - Staffordshire University\2nd year\CNA\Networking Tut\Server\Packets\bin\Debug\netstandard2.0\Packets.deps.json
+C:\Users\rug11\OneDrive - Staffordshire University\2nd year\CNA\Networking Tut\Server\Packets\bin\Debug\netstandard2.0\Packets.dll
+C:\Users\rug11\OneDrive - Staffordshire University\2nd year\CNA\Networking Tut\Server\Packets\bin\Debug\netstandard2.0\Packets.pdb
+C:\Users\rug11\OneDrive - Staffordshire University\2nd year\CNA\Networking Tut\Server\Packets\obj\Debug\netstandard2.0\Packets.csprojAssemblyReference.cache
+C:\Users\rug11\OneDrive - Staffordshire University\2nd year\CNA\Networking Tut\Server\Packets\obj\Debug\netstandard2.0\Packets.AssemblyInfoInputs.cache
+C:\Users\rug11\OneDrive - Staffordshire University\2nd year\CNA\Networking Tut\Server\Packets\obj\Debug\netstandard2.0\Packets.AssemblyInfo.cs
+C:\Users\rug11\OneDrive - Staffordshire University\2nd year\CNA\Networking Tut\Server\Packets\obj\Debug\netstandard2.0\Packets.csproj.CoreCompileInputs.cache
+C:\Users\rug11\OneDrive - Staffordshire University\2nd year\CNA\Networking Tut\Server\Packets\obj\Debug\netstandard2.0\Packets.dll
+C:\Users\rug11\OneDrive - Staffordshire University\2nd year\CNA\Networking Tut\Server\Packets\obj\Debug\netstandard2.0\Packets.pdb
